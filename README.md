@@ -17,4 +17,4 @@ https://vmichalecki.github.io/hw1/
 **Clone my repo:**
 https://github.com/vmichalecki/hw1
 
-!(/assets/images/hw1-screenshot.png)
+![hw1 screenshot](/assets/images/hw1-screenshot.png)
